@@ -1,0 +1,23 @@
+{
+  "name": "event47",
+  "version": "1.0.0",
+  "description": "Function ========",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^19.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medula07/Event47.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medula07/Event47/issues"
+  },
+  "homepage": "https://github.com/medula07/Event47#readme"
+}
